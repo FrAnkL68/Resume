@@ -6,13 +6,13 @@
 
 ## Education Experience
     
-:sparkles: **MiraCosta College** (2017-2019)
+**MiraCosta College** (2017-2019)
 
 ## Skills
 
-:sparkles: **Primary Languages:** Java
+**Primary Languages:** Java
 
-:sparkles: **Foreign Languages:** Mandarin
+**Foreign Languages:** Mandarin
 
 ## Learning Experience
 * In MiraCosta College, I have already finished the **Java** Class.
