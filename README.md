@@ -3,11 +3,11 @@
 ## Feng Lin
 
 ## Contact Info:  
-![Image of Gmail] (https://github.com/FrAnkL68/Feng-Lin-Resume/blob/master/Gmail-icon.png)
+![Gmail-icon] (https://github.com/FrAnkL68/Feng-Lin-Resume/blob/master/Gmail-icon.png)
  
  [Gmail](1jianfenghou@gmail.com)   
 
-![Image of QQ Mail] (https://github.com/FrAnkL68/Feng-Lin-Resume/blob/master/QQMail-icon.png)
+![QQMail-icon] (https://github.com/FrAnkL68/Feng-Lin-Resume/blob/master/QQMail-icon.png)
  
  [QQ Mail](977735768@qq.com)
 
